@@ -1,5 +1,6 @@
 +++
+date = 2022-09-05T12:16:23Z
 title = "About"
-date = 2022-09-05T14:16:23+02:00
-draft = false
+
 +++
+I'm Andreea Barbu, a visual artist and recent graduate based in Rotterdam.
