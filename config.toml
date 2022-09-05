@@ -1,31 +1,31 @@
-title = "Osprey Example Site"
-baseURL = "https://tomanistor.com"
-tags = ["portfolio", "web design", "blog"]
+# title = "Andreea Barbu"
+baseURL = "https://andreeabarbu.com"
+tags = ["portfolio", "digital art", "blog"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
-disqusShortname = "tomanistor"
+disqusShortname = "andreeabb"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "Osprey Example Site"
-  author = "Toma Nistor"
-  description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
-  logoBig = "/images/osprey-logo.png"
-  logoSmall = "/images/osprey-logo.png"
+  tagline = "Andreea Barbu"
+  author = "Andreea Barbu"
+  description = "Andreea Barbu's Digital Portfolio"
+  # logoBig = "/images/osprey-logo.png"
+  # logoSmall = "/images/osprey-logo.png"
   favicon = "favicon.ico"
-  opengraphImage = "/images/osprey.png"
+  # opengraphImage = "/images/osprey.png"
   email = ""
   googleTagManager = ""
   customCSS = false
 
   # Social media links in footer
-  twitter = "TomaNistor"
-  linkedin = "tomanistor"
-  github = "tomanistor"
-  facebook = ""
+  # twitter = "TomaNistor"
+  # linkedin = "tomanistor"
+  # github = "tomanistor"
+  # facebook = ""
 
   # Copyright and theme author credit in footer
   copyright = false
